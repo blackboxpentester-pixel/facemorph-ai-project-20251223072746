@@ -1,0 +1,19 @@
+
+{
+  "name": "FaceMorph AI",
+  "short_name": "FaceMorph",
+  "description": "AI-powered face transformation app.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#dc2626",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1159/1159391.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

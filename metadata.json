@@ -1,0 +1,8 @@
+
+{
+  "name": "FaceMorph AI",
+  "description": "A sophisticated AI-powered image editor that lets you transform faces while preserving the original style and context using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
